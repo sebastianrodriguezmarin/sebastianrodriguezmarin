@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sebastianrodriguezmarin
 - 👀 I’m interested in Power BI, DAX, Python and R.
-- 🌱 I’m currently R studio and Python ...
-- 💞️ I’m looking to collaborate and help you in whatever you need. I will be happy to learn, share and help you at anything i can.
+- 🌱 I’m currently learning R and Python ...
+- 💞️ I’m looking to collaborate and help you in whatever you need. I will be happy to learn, share and help.
 - 📫 How to reach me: sebarod21@hotmail.com
 
 <!---
